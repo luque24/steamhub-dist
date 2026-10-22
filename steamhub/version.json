@@ -1,5 +1,5 @@
 {
-  "versao": "1.1.5",
-  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.5/SteamHub-Beta.zip",
-  "notas": "Correcao definitiva: auto-update agora usa API GitHub (sem cache) e parsing base64."
+  "versao": "1.1.6",
+  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.6/SteamHub-Beta.zip",
+  "notas": "Correcao definitiva: proxy de download embutido resolve falha de atualizacao em apps antigos."
 }
