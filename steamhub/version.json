@@ -1,5 +1,5 @@
 {
- "versao": "1.1.8",
- "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.8/SteamHub-Beta.zip",
- "notas": "Suporte a Steam atualizada: novos patterns para steamclient64.dll e steamui.dll (SHA256 253e0a11... e cd9226db...)."
+ "versao": "1.1.9",
+ "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.9/SteamHub-Beta.zip",
+ "notas": "Correcao de reinicio: script batch espera processo morrer, limpa _MEI e reabre app (resolve warning PyInstaller e backend nao respondeu)."
 }
