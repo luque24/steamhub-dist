@@ -1,5 +1,5 @@
 {
-  "versao": "1.1.1",
-  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.1/SteamHub-Beta.zip",
-  "notas": "Atualizacao automatica agora usa servidor propio. Correcoes de estabilidade."
+  "versao": "1.1.2",
+  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.2/SteamHub-Beta.zip",
+  "notas": "Correcao: mensagens de erro detalhadas quando servidores de pacote retornam vazio. Validacao de corpo zip antes de processar."
 }
