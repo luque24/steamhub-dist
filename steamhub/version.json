@@ -1,5 +1,5 @@
 {
-  "versao": "1.1.7",
-  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.7/SteamHub-Beta.zip",
-  "notas": "Correcao real: matanca de node orfao na porta, aceita multipart na aplicacao do update, troca de exe com app rodando e reinicio do app inteiro."
+ "versao": "1.1.8",
+ "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.8/SteamHub-Beta.zip",
+ "notas": "Suporte a Steam atualizada: novos patterns para steamclient64.dll e steamui.dll (SHA256 253e0a11... e cd9226db...)."
 }
