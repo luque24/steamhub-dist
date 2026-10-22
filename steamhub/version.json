@@ -1,5 +1,5 @@
 {
- "versao": "1.1.10",
- "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.10/SteamHub-Beta.zip",
- "notas": "Correcao de reinicio: usa explorer.exe como launcher (resolve erro Security validation failure onefile do PyInstaller)."
+ "versao": "1.1.11",
+ "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.11/SteamHub-Beta.zip",
+ "notas": "Correcao de versao: backend e host agora reportam 1.1.11 corretamente apos rebuild completo."
 }
