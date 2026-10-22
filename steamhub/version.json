@@ -1,5 +1,5 @@
 {
-  "versao": "1.1.6",
-  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.6/SteamHub-Beta.zip",
-  "notas": "Correcao definitiva: proxy de download embutido resolve falha de atualizacao em apps antigos."
+  "versao": "1.1.7",
+  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.7/SteamHub-Beta.zip",
+  "notas": "Correcao real: matanca de node orfao na porta, aceita multipart na aplicacao do update, troca de exe com app rodando e reinicio do app inteiro."
 }
