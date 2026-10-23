@@ -1,5 +1,5 @@
 {
  "versao": "1.1.12",
  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.12/SteamHub-Beta.zip",
- "notas": "Correcao de versao na UI: busca dinamica ao backend em vez de fallback hardcoded (resolve exibicao de versao antiga apos update)."
+ "notas": "Correcoes e melhorias."
 }
