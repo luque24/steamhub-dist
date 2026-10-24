@@ -1,7 +1,7 @@
 {
  "versao": "1.2.1",
  "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.1/SteamHub-Beta.zip",
- "notas": "Correcoes e melhorias.",
+ "notas": "Correção na busca de jogos.\n\nQuando a Steam ficava instável (respondia com erro ou demorava demais), o app entendia isso como \"jogo não encontrado\", mostrava o aviso de jogo inexistente e ainda guardava esse resultado por uma hora. Por isso a busca parecia vazia em jogos que existem.\n\nAgora o app tenta de novo algumas vezes e, se a Steam não responder, avisa a verdade (\"a Steam não respondeu agora\") e não guarda o erro: basta tentar de novo em alguns segundos.\n\nNada mais mudou.",
  "sha256": "a95d2bfc62ac7c300aece94a23e0d1e105c92839320bc623c58496fda9af27a8",
  "tamanho": 134728,
  "pacote": {
