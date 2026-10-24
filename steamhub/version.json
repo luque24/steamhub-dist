@@ -1,12 +1,12 @@
 {
- "versao": "1.2.0",
- "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.0/SteamHub-Beta.zip",
- "notas": "O Steam Hub agora abre bem mais rapido. As proximas atualizacoes ficam menores e, se uma versao nova nao abrir, o app volta sozinho para a anterior.",
- "sha256": "ec696135f90ae02f185c382fa4717354c12dd0c96145786cb98f4e39aca9607d",
- "tamanho": 134593,
+ "versao": "1.2.1",
+ "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.1/SteamHub-Beta.zip",
+ "notas": "Correcoes e melhorias.",
+ "sha256": "a95d2bfc62ac7c300aece94a23e0d1e105c92839320bc623c58496fda9af27a8",
+ "tamanho": 134728,
  "pacote": {
   "formato": 1,
-  "versao": "1.2.0",
+  "versao": "1.2.1",
   "partes": [
    {
     "nome": "base",
@@ -26,18 +26,18 @@
    },
    {
     "nome": "app",
-    "id": "cd0fe706d6678238",
-    "arquivo": "SteamHub-app-cd0fe706d6678238.zip",
-    "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.0/SteamHub-app-cd0fe706d6678238.zip",
-    "sha256": "7eb99b65d867e9e19b7bbcbd7930f338e98d765c1b83a11b598a28f91945c34c",
-    "tamanho": 2444196
+    "id": "a398b6b5741de0cf",
+    "arquivo": "SteamHub-app-a398b6b5741de0cf.zip",
+    "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.1/SteamHub-app-a398b6b5741de0cf.zip",
+    "sha256": "d0e6498301cec524a8ad957b24e6186410219f5584883ebb2ac09b69ca521548",
+    "tamanho": 2445658
    }
   ],
   "lancador": {
-   "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.0/SteamHub-lancador-21a86e145cc4.exe",
-   "sha256": "21a86e145cc442cfaebe97e20a0368fe737efb7cc90ff68d752b77f61d9634dd",
+   "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.1/SteamHub-lancador-5a06cb2f1412.exe",
+   "sha256": "5a06cb2f1412970364241cd704c0de3a9acd2b2400937a1efb735fa3d60a5e17",
    "tamanho": 148992,
-   "fonte": "cfb768342bd6ae4c"
+   "fonte": "ab789b8551044a54"
   }
  }
 }
