@@ -1,7 +1,43 @@
 {
- "versao": "1.1.21",
- "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.1.21/SteamHub-Beta.zip",
- "notas": "Correcoes e melhorias.",
- "sha256": "97c1be4aad595166dff721ee9b6cc6f771d987da5a5d9e4bd774134947814f46",
- "tamanho": 248416203
+ "versao": "1.2.0",
+ "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.0/SteamHub-Beta.zip",
+ "notas": "O Steam Hub agora abre bem mais rapido. As proximas atualizacoes ficam menores e, se uma versao nova nao abrir, o app volta sozinho para a anterior.",
+ "sha256": "ec696135f90ae02f185c382fa4717354c12dd0c96145786cb98f4e39aca9607d",
+ "tamanho": 134593,
+ "pacote": {
+  "formato": 1,
+  "versao": "1.2.0",
+  "partes": [
+   {
+    "nome": "base",
+    "id": "0272f0e2175e23b1",
+    "arquivo": "SteamHub-base-0272f0e2175e23b1.zip",
+    "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.0/SteamHub-base-0272f0e2175e23b1.zip",
+    "sha256": "9ed4c50ac5e5608d4bc45d69ba4b2a85d6c9a35db4efd1703ac10385521b7814",
+    "tamanho": 210087338
+   },
+   {
+    "nome": "runtime",
+    "id": "0141b0827a64d774",
+    "arquivo": "SteamHub-runtime-0141b0827a64d774.zip",
+    "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.0/SteamHub-runtime-0141b0827a64d774.zip",
+    "sha256": "a5ff9edda6c1518cb4989ca7e434df85e5a5b0203ebad1484371323f0e1a7c9c",
+    "tamanho": 38437165
+   },
+   {
+    "nome": "app",
+    "id": "cd0fe706d6678238",
+    "arquivo": "SteamHub-app-cd0fe706d6678238.zip",
+    "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.0/SteamHub-app-cd0fe706d6678238.zip",
+    "sha256": "7eb99b65d867e9e19b7bbcbd7930f338e98d765c1b83a11b598a28f91945c34c",
+    "tamanho": 2444196
+   }
+  ],
+  "lancador": {
+   "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.0/SteamHub-lancador-21a86e145cc4.exe",
+   "sha256": "21a86e145cc442cfaebe97e20a0368fe737efb7cc90ff68d752b77f61d9634dd",
+   "tamanho": 148992,
+   "fonte": "cfb768342bd6ae4c"
+  }
+ }
 }
