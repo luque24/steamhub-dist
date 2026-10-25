@@ -1,12 +1,12 @@
 {
- "versao": "1.2.1",
- "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.1/SteamHub-Beta.zip",
- "notas": "Correção na busca de jogos.\n\nQuando a Steam ficava instável (respondia com erro ou demorava demais), o app entendia isso como \"jogo não encontrado\", mostrava o aviso de jogo inexistente e ainda guardava esse resultado por uma hora. Por isso a busca parecia vazia em jogos que existem.\n\nAgora o app tenta de novo algumas vezes e, se a Steam não responder, avisa a verdade (\"a Steam não respondeu agora\") e não guarda o erro: basta tentar de novo em alguns segundos.\n\nNada mais mudou.",
- "sha256": "a95d2bfc62ac7c300aece94a23e0d1e105c92839320bc623c58496fda9af27a8",
+ "versao": "1.2.2",
+ "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.2/SteamHub-Beta.zip",
+ "notas": "App mais leve e ativação mais direta.\n\nA tela ficou bem mais fluida: rolar a lista, passar o mouse nos jogos e trocar de aba não engasgam mais, mesmo em computador mais simples.\n\nQuando um jogo termina de ativar, ele sai da Lista e vai na hora para a aba Ativados, com um aviso e um botão para reiniciar a Steam. Na aba Ativados dá para reativar ou remover o jogo.\n\nA aba Populares agora busca os jogos offline mais jogados do momento toda vez que o app abre, e cada jogo tem o botão Ativar ali mesmo, sem precisar adicionar antes. Se a Steam não responder, o app mostra a última lista que conseguiu.\n\nO app também avisa quando o Controle Inteligente de Aplicativos do Windows pode bloquear o Steam Hub.",
+ "sha256": "1bb433509adac6bd3d6f875a39cb7a95e96fcfdc195e5dc9f088818dd955fc80",
  "tamanho": 134728,
  "pacote": {
   "formato": 1,
-  "versao": "1.2.1",
+  "versao": "1.2.2",
   "partes": [
    {
     "nome": "base",
@@ -26,11 +26,11 @@
    },
    {
     "nome": "app",
-    "id": "a398b6b5741de0cf",
-    "arquivo": "SteamHub-app-a398b6b5741de0cf.zip",
-    "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.1/SteamHub-app-a398b6b5741de0cf.zip",
-    "sha256": "d0e6498301cec524a8ad957b24e6186410219f5584883ebb2ac09b69ca521548",
-    "tamanho": 2445658
+    "id": "4e15f20b7c28d039",
+    "arquivo": "SteamHub-app-4e15f20b7c28d039.zip",
+    "url": "https://github.com/luque24/steamhub-dist/releases/download/v1.2.2/SteamHub-app-4e15f20b7c28d039.zip",
+    "sha256": "6d01e5046ad5d6ebebd69312321be0c0cd0f2aa7e1d273096958950178000aa2",
+    "tamanho": 2472310
    }
   ],
   "lancador": {
